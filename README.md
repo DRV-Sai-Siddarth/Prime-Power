@@ -1,6 +1,8 @@
 # Prime Power
 Brute Force Approach
+<br>
 A Python project to determine whether a given number is a **prime number**, a **power of another number**, or neither. 
+<br>
 **This project was developed in my 1st year, 1st semester** as part of the LifeSkills & Python program conducted by the ARJUNA Trust.**
 ---
 
